@@ -10,6 +10,7 @@ assignees: ''
 ---
 layout: post
 title:  "Write title here"
+author: "Your name"
 date:   2019-04-16 06:24:24 +0800
 categories: category1 카테고리1
 ---
