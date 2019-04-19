@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "분산화된 의결 구조를 향하여"
+author: "임완섭"
 date:   2019-04-16 13:59:24 +0900
 categories: 거버넌스 이드콘
 ---
