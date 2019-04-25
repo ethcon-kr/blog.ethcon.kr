@@ -29,8 +29,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-minima:
-  google_analytics: UA-131452835-2
+google_analytics: UA-131452835-2
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
