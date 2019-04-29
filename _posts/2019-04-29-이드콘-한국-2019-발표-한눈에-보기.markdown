@@ -80,9 +80,9 @@ by 이흥노 (GIST)
 ### 이중지불공격 위험성 분석 알고리즘
 by 장재혁 (GIST)
 - 이중지불 공격의 위험성을 새로운 관점에서 분석한 최신 연구결과를 소개합니다.
-&nbsp; &nbsp;
-******
 
+******
+&nbsp; &nbsp;
 # Cryptoeconomics
 
 ### 100만 데이터를 거래하는 블록체인 프로토콜 개발기
@@ -117,9 +117,9 @@ by 안상선 (M-Robo)
 ### DAO Cooperativism of the Sharing Economy on Blockchain
 by 조산구 (wehome) 
 - DAO와 대응되는 기존 용어는 협동조합입니다.  블록체인 기반의 DAO는 협동조합의 진화된 모델이고 공유경제 분야 가장 적합합니다. 이런 기조로 블록체인 기반 조합주의 모델을 소개하고 실제 구현모델인 위홈 서비스를 데모합니다.
-&nbsp; &nbsp;
-******
 
+******
+&nbsp; &nbsp;
 # Layer 2
 
 ### Git karma on Layer 2 solutions
@@ -149,9 +149,9 @@ by Ruben Somsen (seoulbitcoin.kr)
 ### Examples and Best Practice to Implement Requestable Contract for Plasma EVM 
 by 박주형 (Onther Inc.) 
 - Requestable contract 구현을 위한 예시와 best practices를 소개합니다.
-&nbsp; &nbsp;
-******
 
+******
+&nbsp; &nbsp;
 # UX/UI
  
 ### UX 디자이너의 블록체인 게임 기획, 웹 IDE 만들기 _ UX 문제 분석 및 개선 방안
@@ -176,9 +176,9 @@ by 강하다 (MBGA)
 ### 인증수단으로 스마트컨트랙트를 사용하는 커뮤니티 사이트의 개발 (daoauth와 커뮤니티)
 by 임도형
 - 블록체인 사용성을 높이기 위해 블록체인을 이용한 커뮤니티 사이트를 만들어 보았습니다. 아직은 생소한 블록체인과 스마트 컨트랙트를 커뮤니티의 사용자 인증과 가입 수단으로 활용함으로써 단계적으로 블록체인의 UX를 학습시킬 수 있을 것으로 기대하고 있습니다.
-&nbsp; &nbsp;
-******
 
+******
+&nbsp; &nbsp;
 # Infrastructure
 
 ### 중학생도 만드는 IPFS Dapp 만들기
@@ -204,9 +204,9 @@ by 차승훈
 ### Porting geth on pine64,rock64 arm embedded board
 by 신만선 (위고컴퍼니)
 - IoT Hub등의 디바이스에 사용되는 arm embedded board(pine64,rock64)에 geth를 포팅하는 작업과 결과물들에 대하여 발표할 예정입니다.
-&nbsp; &nbsp;
-******
 
+******
+&nbsp; &nbsp;
 # Interchain
 
 
@@ -228,9 +228,9 @@ by 김부연 (Cosmostation)
 ### Dogethereum으로 바라본 인터체인의 현주소
 by 박상현 (서울대학교 가상머신 및 최적화 연구실)
 - Dogethereum 프로젝트는 NiPoPoW, Truebit, 2-way Peg 등 최신 블록체인 기술을 망라하는 인터체인 프로젝트입니다. 발표를 통해 인터체인은 물론, 기반이 되는 기술들까지 소개할 수 있을 것으로 기대됩니다.
-&nbsp; &nbsp;
-******
 
+******
+&nbsp; &nbsp;
 # Utilities & Methodology
 
 
@@ -252,9 +252,9 @@ by 김관래
 ### 폴리매스 STO 컨트랙트 예제를 통해 배우는 업그레이더블 컨트랙트 설계
 by 한상일 (디지털 골드 익스체인지)
 - Polymath v 1.3.0 버전의 13개의 컨트랙트(팩토리 모듈 프록시 레지스터)들이 어떻게 연계되고 업그레이더블하게 연동되는지에 대해 해석합니다.
-&nbsp; &nbsp;
-******
 
+******
+&nbsp; &nbsp;
 # DeFi & Wallets 
 
 
@@ -276,9 +276,9 @@ by 최민석 (위고컴퍼니)
 ### iExec V3: A Decentralized Marketplace for Trading Datasets 
 by Gilles Fedak (iExec) 
 - 데이터셋 트레이딩을 위한 탈중앙화 마켓플레이스를 지향하는 iExec V3의 새로운 버전을 소개할 예정입니다. 
-&nbsp; &nbsp;
-******
 
+******
+&nbsp; &nbsp;
 # Cryptography & MPC
 
 
@@ -290,9 +290,9 @@ by 배경일 (Atomrigs Consulting)
 ### 예제를 통한 Threshold Sig 와 Multi Sig 비교
 by 정우현 (Atomrigs Consulting) 
 - 비트코인과 이더리움 Multi Sig 의 기본 구조를 설명 MPC를 사용한 Threshold Sig 의 개념과 기본구조 설명 각각의 예제 분석을 통해 특징과 장단점을 분석합니다.
-&nbsp; &nbsp;
-******
 
+******
+&nbsp; &nbsp;
 # Security 
 
 
@@ -304,9 +304,9 @@ by 김영욱 (알고리마)
 ### 스마트 컨트랙트 보안 취약점 Case study
 by 이진호 (헥슬란트) 
 - 40여 프로젝트의 컨트랙트 오딧을 진행하면서 발견된 사례들을 분석하고, 취약점을 조기에 발견할 수 있는 프로세스를 소개합니다.
-&nbsp; &nbsp;
-******
 
+******
+&nbsp; &nbsp;
 # Dapp & Game 
 
 
@@ -318,9 +318,9 @@ by Kendrick Tan
 ### 이더리움 기반 오목 게임 개발기 
 by 윤성준
 - 이더리움 기반 오목 게임을 만들어서 메인넷에 런칭을 했었습니다. 이 게임을 개발하여 메인넷에서 런칭하기 까지 겪었던 어려움들을 공유하고, 왜 서비스를 내리게 되었는지까지를 공유합니다.
-&nbsp; &nbsp;
-******
 
+******
+&nbsp; &nbsp;
 # Community
 
 
@@ -332,27 +332,27 @@ by 김준용 (LANDINGBLOCK)
 ### 제주 삼도2동 지역 화폐 도입 테스트 후기
 by 현수영 (Jeju Blockchain User Group) 
 - 4~5월에 걸쳐 약 한달간 제주시 삼도2동 지역에 주로 비개발자 분들을 대상으로 체험단을 구성하여 삼도코인을 운영해 볼 계획입니다. 기획, 개발 및 프로젝트 진행 과정에서의 모든 시행 착오에 관한 부분을 함께 나누고 결과를 함께 공유하면서 가까이 있는 사회 문제를 해결하기 위한 접근 사례에 대해 소개합니다.
-&nbsp; &nbsp;
-******
 
+******
+&nbsp; &nbsp;
 # Identity 
 
 
 ### Decentralized Identity for Real World
 by 최윤성 (해치랩스)
 - Ethereum 기반의 Identity 시스템인 ERC725와 그와 연계된 ERC들을 소개하고, 궁극적으로 EVMPackage로 제공되는 ERC 725 Contract를 공개 및 실습합니다.
-&nbsp; &nbsp;
-******
 
+******
+&nbsp; &nbsp;
 # Bigdata 
 
 
 ### 블록체인과 데이터분석: 빅데이터 분석 활용사례
 by 이종건 (Ground X)
 - 블록체인에서의 다양한 데이터 분석 사례를 소개하고 데이터 분석의 가능성을 보여줍니다.
-&nbsp; &nbsp;
-******
 
+******
+&nbsp; &nbsp;
 # Other 
 
 
