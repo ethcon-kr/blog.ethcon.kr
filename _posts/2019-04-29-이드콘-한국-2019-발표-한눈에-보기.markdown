@@ -44,7 +44,7 @@ https://ethresearch.kr/t/topic/47
 각 발표에 대한 정확한 시간과 장소 역시 최대한 빨리 전해드리겠습니다!
 
 ******
-
+&nbsp;
 # Core
 
 ### Implementing CBC Casper 
