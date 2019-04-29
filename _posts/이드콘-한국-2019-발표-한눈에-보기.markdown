@@ -1,0 +1,345 @@
+---
+title:  "이드콘 한국 2019 발표 한눈에 보기!"
+author: "류짬"
+date:   2019-04-29 06:24:24 +0900
+categories: 준비과정
+---
+
+안녕하세요! 이드콘 한국 2019 준비위원회입니다.
+
+많은 분이 한국 최초로 커뮤니티에 의해 개최되는 블록체인 관련 개발자 컨퍼런스인 이드콘 한국 2019에서 도대체 어떠한 내용이 다뤄지는지에 대해 궁금해하실 겁니다.
+
+3월부터 발표자 신청을 받기 시작했고 발표자 신청이 마감된 4월 중순까지 많은 분이 발표 신청을 해주셨습니다. 예상보다 정말 많은 프로포절이 들어왔고 저희도 이를 최대한 공정하게 심사하기 위해 제곱투표 방식을 활용하여 심사하였습니다. 이에 대한 자세한 내용은 아래 링크를 통해 확인 가능합니다!
+
+https://ethresearch.kr/t/topic/47
+
+저희는 이드콘 한국 2019가 이더리움에 대해 최대한 다양한 내용을 다루는 컨퍼런스가 되길 희망했고, 그러므로 발표 주제를 한정 짓지 않고 자유롭게 오픈했습니다. 그 결과 예상보다 더 다양한 주제들이 제안되었습니다.
+
+![chart2](https://user-images.githubusercontent.com/29397119/56868049-3ad84980-6a28-11e9-9f03-0e112376eb59.png)
+
+현재 총 53개의 발표 주제가 심사에 의해 선택되었습니다. 53개의 주제는 크게 15개의 영역으로 분류되었습니다.
+
+- Core - 7개 (13.2%)
+- Cryptoeconomics - 7개 (13.2%)
+- Layer 2 - 6개 (11.3%)
+- UX/UI - 5개 (9.4%)
+- Infrastructure - 5개 (9.4%)
+- Interchain - 4개 (7.5%)
+- Utilities & Methodology - 4개 (7.5%)
+- DeFi & Wallets - 4개 (7.5%)
+- Cryptography & MPC - 2개 (3.8%)
+- Security - 2개 (3.8%)
+- Dapp & Game - 2개 (3.8%)
+- Community - 2개 (3.8%)
+- Identity - 1개 (1.8%)
+- Bigdata - 1개 (1.8%)
+- Other - 1개 (1.8%)
+
+난이도는 초급, 중급, 고급 각각 21개, 31개, 1개로 이더리움에 대해 깊은 이해가 부족한 개발자와 이미 깊은 이해도를 보유한 개발자 모두에게 유익한 컨퍼런스가 되기에 최적이라고 생각합니다.
+
+또한! 꼭 개발자가 아닌 블록체인에 관심을 가진 기획자, 디자이너 역시 주목할 만 한 주제들도 적지 않은 비율을 차지하고 있습니다. 최근 블록체인 업계에서 화두로 떠오르는 UX/UI를 포함하여 암호경제학, 커뮤니티, 게임, DeFi 등 비개발자를 위한 주제들 역시 매우 관심이 높습니다!
+
+아래는 주제들을 영역별로 보기 쉽게 분류해 둔 것입니다. 아직 각 발표에 대한 정확한 시간과 장소는 정해지지 않았지만 영역별로 어떠한 발표가 진행될 것인지 파악하기에 도움이 될 것이라 기대합니다.
+
+각 발표에 대한 정확한 시간과 장소 역시 최대한 빨리 전해드리겠습니다!
+<br></br>
+# Core
+
+### Implementing CBC Casper 
+by Aditya Asgaonkar (Ethereum Foundation)
+- Casper CBC 구현과 ETH 2.0과의 통합과 관련하여 논의할 예정입니다. LMD GHOST 포크 선택 규칙에 대해 자세히 들여다 보고 이러한 규칙이 왜 필요한 지에 대해 논의합니다. 
+
+
+### Parsing Ethereum Database
+by 김지윤
+- 이더리움의 데이터 구조, 저장 방식 등을 알아보고, 현재 DB의 데이터를 실제로 분석합니다.
+
+
+### Manage Geth node on Kubernetes
+by Tai Ling Chen (AMIS blockchain company)
+- 쿠버네츠(Kubernetes)에서 Geth node를 관리하는 방법에 대해 소개합니다.
+
+
+### EVM과 함께한 smart contract language 개발기
+by 김성재 (DE-labtory)
+- KOA(프로젝트명)는 bitcoin script보다 많은 표현을 할 수 있고 solidity보다 심플하고 분석하기 쉬운 스마트 컨트랙트 언어를 만들어보고자 시작한 프로젝트입니다. 개발하면서 얻은 기술적 지식과 개발과정에서 EVM, Opcode, solidity를 만든 개발자들이 어떤 의도를 가지고 개발을 했는지 또는 개선이 필요한 부분에 대한 느낀점을 전반적으로 소개합니다.
+
+
+### 자바스크립트로 나만의 블록체인 구현하기
+by 유윤재 (디넥스트) 
+- 자바스크립트로 직접 블록체인을 밑바닥부터 구현하는 방법을 코드와 함께 설명합니다. PoW 합의 알고리즘과 UTXO를 갖는 일종의 비트코인을 만들어 봅니다. 블록체인 코어는 특별한 이들만 만들 수 있다는 환상을 없애고 관련 지식이 대중화되었으면 좋겠습니다. 
+
+
+### Scalable Decentralized Secure Blockchains : 블록체인 합의알고리즘과 재중앙화 문제 해결 방안 제시
+by 이흥노 (GIST) 
+- GIST 블록체인경제 센터가 개발해온 부호-암호 합의알고리즘에 기반한 Decentralized Secure (DeSecure) Blockchain 기술을 공개합니다. 이 기술이 어떻게 채굴 시장의 재 중앙화 문제를 해결할 수 있는지 설명합니다. 핵심 내용은 매 블록마다 작업증명 퍼즐이 새롭게 제시되는 error-correction-code기반 합의 메커니즘의 제안입니다.
+
+
+### 이중지불공격 위험성 분석 알고리즘
+by 장재혁 (GIST)
+- 이중지불 공격의 위험성을 새로운 관점에서 분석한 최신 연구결과를 소개합니다.
+
+<br></br>
+# Cryptoeconomics
+
+### 100만 데이터를 거래하는 블록체인 프로토콜 개발기
+by 김효준 (Airbloc) 
+- 실제 프로덕션 환경의 대규모 사용자 데이터를 Ethereum 블록체인에서 다루고, 사용자가 직접 통제하고 거래할 수 있는 프로토콜을 개발하기 위해 어떤 암호경제학적 설계 기법과 기술을 적용해서 최적화할 수 있었는지에 대한 개발 스토리 및 인사이트를 공유합니다.
+
+
+### Agent-based computational economics, beyond nash equilibrium: 암호경제학 방법론 분석
+by 박시은
+- 분산 시스템 경제 설계를 위해 비교적 최근 제시된 방법론인 agent based modelling 및 agent based computational economics의 개념을 소개하고, 이를 분산 시스템 경제의 설계에 접목할 수 있는 방법에 대해 고찰합니다.
+
+### 암호경제학으로 이해하는 스테이블코인 & DeFi 
+by 남두완 (MakerDAO)
+- 최근 스테이블코인과 DeFi (탈중앙금용)이 많은 관심을 받고 있습니다. 암호경제학으로 보았을때 스테이블코인과 DeFi가 어떻게 세상을 바꾸고 장점&단점 및 케이스들을 소개합니다.
+
+
+### Blockchain Resource Pricing and the State "Rent"
+by Henry Chen (Nervos)
+- 이더리움 커뮤니티에서 제안된 state rent처럼 블록체인 리소스 사용에 대한 가격이 적절히 평가 받을 수 있는 토큰 메커니즘을 설계하며 겪은 어려움에 대해 이야기하고, 이에 대한 솔루션을 간략하게 소개합니다.
+
+
+### Modelling Language for Cryptoeconomic Systems
+by 박찬현 (디사이퍼) 
+- 크립토경제 시스템을 위한 언어 모델링에 필요한 요소들에 대해 소개합니다.
+
+
+### ERC20코인에 대한 경제적 분석: 효율성과 공평성을 중심으로
+by 안상선 (M-Robo) 
+- 분배의 불공평성, 토큰 이코노미의 본원통화 역할 등 ERC20 코인의 경제적인 분석에 대한 3가지 토픽에 대해 이야기합니다.
+
+
+### DAO Cooperativism of the Sharing Economy on Blockchain
+by 조산구 (wehome) 
+- DAO와 대응되는 기존 용어는 협동조합입니다.  블록체인 기반의 DAO는 협동조합의 진화된 모델이고 공유경제 분야 가장 적합합니다. 이런 기조로 블록체인 기반 조합주의 모델을 소개하고 실제 구현모델인 위홈 서비스를 데모합니다.
+<br></br>
+
+# Layer 2
+
+### Git karma on Layer 2 solutions
+by 임완섭 (nonce) 
+- EDCON HACK에서 나온 Git karma 프로젝트를 plasma에 구현 및 운영합니다.
+
+
+### Data availability solution in plasma for global state: Continuous Rebase 
+by 박정원 (Onther Inc.)
+- Global state를 다루는 plasma의 Data availability solution을 어떻게 구성할 수 있는지 알아 봅니다.
+
+### Tokamak Network: Turing Complete, Scalable Plasma Chain 
+by 정순형 (Onther Inc.)
+- 이더리움의 레이어2 솔루션인 플라즈마 블록체인이 튜링 불완전한 모습에서 튜링 완전한 모습으로 진화하는 과정과 어떻게 완전 일반화된 플라즈마 체인이 구현되어갔고 어떠한 생태계가 만들어지는지 묘사합니다.
+
+
+### NOCUST- A securely scalable commit-chain
+by Tony Tran (Liquidity Network) 
+- 안전한 방식으로 확장성을 늘릴 수 있는 NOCUST 커밋체인(commit-chain)에 대해 소개합니다.
+
+
+### Statechains -- scalable ledger-agnostic off-chain transactions
+by Ruben Somsen (seoulbitcoin.kr) 
+- 원장-애그노스틱 오프체인 거래를 위한 확장 가능한 레이어 2 솔루션을 소개합니다.
+
+
+### Examples and Best Practice to Implement Requestable Contract for Plasma EVM 
+by 박주형 (Onther Inc.) 
+- Requestable contract 구현을 위한 예시와 best practices를 소개합니다.
+<br></br>
+
+# UX/UI
+ 
+### UX 디자이너의 블록체인 게임 기획, 웹 IDE 만들기 _ UX 문제 분석 및 개선 방안
+by 오지은 (DE-labtory) 
+- 블록체인 응용 서비스의 UX 설계를 시작한 디자이너의 고민과 어떤 내용을 구성했는지, 그리고 발표 시기까지 개발이 진행된다면 프로토타입까지/ 진행이 되지 않으면 와이어프레임까지의 내용을 공유합니다.
+
+### Your dapp isn't finished without ENS
+by Brantly Millegan(Ethereum Name Service) 
+- ENS를 대략적으로 소개하고 ENS가 왜 Dapp의 좋은 UX/UI에 필수적인 요소인지에 대해 이야기 합니다.
+
+
+### DApp 에 Universal Login 을 붙여 손쉽게 신규 사용자를 모집하자
+by 김종광 (이더리움연구회)
+- Devcon 4 에서 발표된 Universal Login 에 대해 알아보고 실제 적용된 DApp과 비교하여 얼마나 편리하고 도움이 되는지 알아 봅니다.
+
+
+### 킬러 Dapp 과 UX 디자인
+by 강하다 (MBGA) 
+- 최근 블록체인 업계에서 대두되고있는 UX 문제에 대해서 제가 고민해온 그 간의 길과, 그리고 어떤 결론을 내렸는지, 어떻게 나아가야 하는지 고민한 것들을 발표합니다. 
+
+
+### 인증수단으로 스마트컨트랙트를 사용하는 커뮤니티 사이트의 개발 (daoauth와 커뮤니티)
+by 임도형
+- 블록체인 사용성을 높이기 위해 블록체인을 이용한 커뮤니티 사이트를 만들어 보았습니다. 아직은 생소한 블록체인과 스마트 컨트랙트를 커뮤니티의 사용자 인증과 가입 수단으로 활용함으로써 단계적으로 블록체인의 UX를 학습시킬 수 있을 것으로 기대하고 있습니다.
+<br></br>
+
+# Infrastructure
+
+### 중학생도 만드는 IPFS Dapp 만들기
+by 한우영(골든타임) 
+- IPFS의 정의, IPFS 와 Swarm의 차이에 대해 이야기하고, IPFS를 활용한 간단한 영상/사진을 업로드 하는 DAPP 을 만드는 튜토리얼을 진행하고자 합니다.
+
+
+### 위스퍼(Whisper)란 무엇이고 어떻게 사용할 수 있을까?
+by 장진호(Status.im)
+- 위스퍼(Whisper)의 주요 특징, 성격, 활용 사례에 대해 알아보고, geth를 활용하여 직접 위스퍼를 통한 메시지를 주고 받는 실습 or 튜토리얼을 진행합니다.
+
+
+### 이더리움 외부 정보 접근을 위한 스마트 컨트랙트 오라클 기술
+by 주일택 (아이오트러스트) 
+- 이더리움 스마트 컨트랙트에서 외부 정보 접근 시 발생되는 정보 원본의 무결성 보장, 데이터 공급자의 인증 서비스 등 오라클 문제의 해결 모델(체인링크, 오라클라이즈 등)들을 소개하고, 이더리움 스마트컨트랙트에서 오라클을 이용한 개발 사례를 발표합니다.
+
+
+### Mimblewimble: Scalable Privacy Protocol 
+by 차승훈
+- 밈블윔블 프로토콜에 대한 특징과 적용에 대해 논합니다.
+
+
+### Porting geth on pine64,rock64 arm embedded board
+by 신만선 (위고컴퍼니)
+- IoT Hub등의 디바이스에 사용되는 arm embedded board(pine64,rock64)에 geth를 포팅하는 작업과 결과물들에 대하여 발표할 예정입니다.
+<br></br>
+
+# Interchain
+
+
+### 해시타임 락 컨트랙트를 이용한 Atomic Swap 구현 
+by 엄지용 (GameXCoin) 
+- 익명 참여자의 악의적인 행동(abusing)을 막기 위해 해시타임 락을 사용하며 본 발표는 아토믹 스왑을 구현한 스마트 컨트랙트 소개 및 실제 교환 과정에 대한 데모를 진행합니다.
+
+
+### Polkadot/Substrate: 인터체인 개발 튜토리얼 
+by 강형석 (speckleOS)
+- 인터체인 프로젝트들이 소개되면서 이더리움 개발자였던 Gavin Wood가 이끄는 polkadot network와 substrate에 대해 알아보고 어떻게 substrate의 아키텍쳐로 모든 블록체인 프로젝트들을 구현 할 수 있고 이더리움과는 어떻게 연결이 될 것이며 현재 동향과 개발방법에 대해서 알아 봅니다.
+
+
+### 코스모스 자바스크립트 라이브러리, cosmosjs 개발기
+by 김부연 (Cosmostation)
+- Go언어로 만들어진 코스모스 SDK에 아직 Go 언어 이외의 라이브러리가 개발되지 않은 상황이었습니다. 코스모스 SDK를 참고하여 이를 자바스크립트에서 사용할 수 있는 라이브러리를 개발한 과정을 알려드립니다. 어떻게 Go로 되어 있는 소스를 자바스크립트 버전으로 만들었는지, 막히던 부분은 어떤 부분이었고 어떻게 해결했는지에 대해 설명합니다.
+
+
+### Dogethereum으로 바라본 인터체인의 현주소
+by 박상현 (서울대학교 가상머신 및 최적화 연구실)
+- Dogethereum 프로젝트는 NiPoPoW, Truebit, 2-way Peg 등 최신 블록체인 기술을 망라하는 인터체인 프로젝트입니다. 발표를 통해 인터체인은 물론, 기반이 되는 기술들까지 소개할 수 있을 것으로 기대됩니다.
+<br></br>
+
+# Utilities & Methodology
+
+
+### Live Streaming Your Smart Contract
+by Adrian Li (Truffle)
+- 스마트 컨트랙트 데이터를 스트리밍하는 라이브러리와 방법에 대해 발표합니다. 이더리움 Dapp을 개발하는 프런트엔드 개발자들에게 도움이 될 것이라 생각합니다.
+
+
+### VVISP: A Smart Way to Operate Smart Contracts
+by 최지혁 (해치랩스)
+- 스마트 컨트랙트 개발/배포/테스트를 쉽게 도와주는 개발도구인 vvisp을 소개합니다. vvisp의 핵심 기능인 쉬운 스마트 컨트랙트 배포와 실행을 위한 방법을 알아보며 이를 통해 어떻게 개발자의 불필요한 작업들을 단축시킬수 있는지 살펴봅니다. 마지막으로 현재의 개발상황과 앞으로의 로드맵을 공유합니다.
+
+
+### 이더리움 블록체인 이벤트 모니터링: web3js와 web socket 기반 
+by 김관래 
+- 이더리움 블록체인에서 발생하는 이벤트를 모니터링 하여, push notification 을 받을 수 있는 기본적인 code snippet 을 작성해 봅니다.
+
+
+### 폴리매스 STO 컨트랙트 예제를 통해 배우는 업그레이더블 컨트랙트 설계
+by 한상일 (디지털 골드 익스체인지)
+- Polymath v 1.3.0 버전의 13개의 컨트랙트(팩토리 모듈 프록시 레지스터)들이 어떻게 연계되고 업그레이더블하게 연동되는지에 대해 해석합니다.
+<br></br>
+
+# DeFi & Wallets 
+
+
+###  Developing an interface for blockchain-based protocols in decentralized finance applications
+by Daisaku Yamamoto (TimeTicket, Inc.)
+- DeFi 앱들을 관리하기 위한 인터페이스를 제공하는 웹앱 개발기를 소개합니다.
+
+
+### 이더리움과 토큰의 분실이 방지되는 지갑 개발기
+한재영 (크립토 주식회사)
+- 이더리움 및 암호화폐 대중화에 걸림돌이 되고있는 사용자의 암호화폐 관리부담을 줄여주는 월렛을 목표로 개발중이며, 남녀노소 누구나 쉽고 안전하게 사용할 수 있는 사용자 경험을 제공해줘야 합니다. 당사에서 개발중인 마이콜드월렛앱에서 구현된 자산보호기능을 소개합니다.
+
+
+### Dex 모바일 앱 개발 및 배포기
+by 최민석 (위고컴퍼니) 
+- 저희는 현재 보유하고 있는 메인넷 기술과 함께 Dex를 모바일에서 구현 해 보기로 결정했고 Android Native의 MVP 개발 단계에 있습니다. Dex 개발 경험을 공유합니다.
+
+
+### iExec V3: A Decentralized Marketplace for Trading Datasets 
+by Gilles Fedak (iExec) 
+- 데이터셋 트레이딩을 위한 탈중앙화 마켓플레이스를 지향하는 iExec V3의 새로운 버전을 소개할 예정입니다. 
+<br></br>
+
+# Cryptography & MPC
+
+
+### Secure MPC(Multi Party Computation) Deep Dive
+by 배경일 (Atomrigs Consulting) 
+- Secure MPC 에 대한 이론적 백그라운드 및 컴포넌트를 소개합니다.
+
+
+### 예제를 통한 Threshold Sig 와 Multi Sig 비교
+by 정우현 (Atomrigs Consulting) 
+- 비트코인과 이더리움 Multi Sig 의 기본 구조를 설명 MPC를 사용한 Threshold Sig 의 개념과 기본구조 설명 각각의 예제 분석을 통해 특징과 장단점을 분석합니다.
+<br></br>
+
+# Security 
+
+
+### 스마트 컨트랙트 보안 위협과 개발자 도구
+by 김영욱 (알고리마) 
+- 스마트 컨트랙트 보안 위협에는 어떤 것들이 있는지 소개하고, 안전한 스마트 컨트랙트를 개발하기 위한 도구와 사용법을 안내합니다.
+
+
+### 스마트 컨트랙트 보안 취약점 Case study
+by 이진호 (헥슬란트) 
+- 40여 프로젝트의 컨트랙트 오딧을 진행하면서 발견된 사례들을 분석하고, 취약점을 조기에 발견할 수 있는 프로세스를 소개합니다.
+<br></br>
+
+# Dapp & Game 
+
+
+### Feeding My Cat With Ethereum
+by Kendrick Tan 
+- 저희 고양이가 살이 찌고 있었습니다. 고양이가 먹이를 먹는 것을 트래킹하고 싶었으나 별도의 DB 혹은 클라우드 VM은 사용하고 싶지 않았습니다. 그래서 스마트 컨트랙트를 사용해보았습니다. 고양이 먹이 주는 로직을 이더리움 블록체인에 배포한 개발기를 공유합니다.
+
+
+### 이더리움 기반 오목 게임 개발기 
+by 윤성준
+- 이더리움 기반 오목 게임을 만들어서 메인넷에 런칭을 했었습니다. 이 게임을 개발하여 메인넷에서 런칭하기 까지 겪었던 어려움들을 공유하고, 왜 서비스를 내리게 되었는지까지를 공유합니다.
+<br></br>
+
+# Community
+
+
+### 커뮤니티가 걸어가야 할 방향 : DAO 커뮤니티 활성화를 위한 제언
+by 김준용 (LANDINGBLOCK)
+- 이제는 블록체인 생태계의 모든 사람이 머리를 맞대 건강한 생태계를 조성해야 하는 시점이 왔다고 판단합니다. 이에 따라 커뮤니티 운영 경험과 해외 사례들을 분석하고, 건전한 생태계를 위한 커뮤니티 활성화의 제언 및 DAO 커뮤니티 사례 등 다양하게 다뤄 봅니다.
+
+
+### 제주 삼도2동 지역 화폐 도입 테스트 후기
+by 현수영 (Jeju Blockchain User Group) 
+- 4~5월에 걸쳐 약 한달간 제주시 삼도2동 지역에 주로 비개발자 분들을 대상으로 체험단을 구성하여 삼도코인을 운영해 볼 계획입니다. 기획, 개발 및 프로젝트 진행 과정에서의 모든 시행 착오에 관한 부분을 함께 나누고 결과를 함께 공유하면서 가까이 있는 사회 문제를 해결하기 위한 접근 사례에 대해 소개합니다.
+<br></br>
+
+# Identity 
+
+
+### Decentralized Identity for Real World
+by 최윤성 (해치랩스)
+- Ethereum 기반의 Identity 시스템인 ERC725와 그와 연계된 ERC들을 소개하고, 궁극적으로 EVMPackage로 제공되는 ERC 725 Contract를 공개 및 실습합니다.
+<br></br>
+
+# Bigdata 
+
+
+### 블록체인과 데이터분석: 빅데이터 분석 활용사례
+by 이종건 (Ground X)
+- 블록체인에서의 다양한 데이터 분석 사례를 소개하고 데이터 분석의 가능성을 보여줍니다.
+<br></br>
+
+# Other 
+
+
+### 블록체인과 21세기 디지털 자본주의와 민주주의
+by 문영훈 (nonce) 
+- 21세기 디지털 자본주의 시대의 디지털 노동의 개념과 자기 데이터 및 신원주권, 디지털 노동조합과 부의 재분배 및 기본소득의 개념등에 대해서 이야기하고 "왜 꼭 블록체인이어야 하는가?"에 대한 질문에 답해보고자 합니다.
